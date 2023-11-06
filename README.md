@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">A Software Engineering Undergraduate from Sri Lanka</h3>
-<img align="center" width="400" src ="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
+<img align="right" width="400" src ="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusiththarindu&label=Profile%20views&color=0e75b6&style=flat" alt="rusiththarindu" /> </p>
 
