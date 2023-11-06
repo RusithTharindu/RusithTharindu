@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src ="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img src ="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
 <h3 align="center">A Software Engineering Undergraduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusiththarindu&label=Profile%20views&color=0e75b6&style=flat" alt="rusiththarindu" /> </p>
