@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src = "https://pin.it/J23bkCX"> 
 <h1 align="center">Hi 👋, I'm Rusith Tharindu Thushan</h1>
 <h3 align="center">A Software Engineering Undergraduate from Sri Lanka</h3>
 
