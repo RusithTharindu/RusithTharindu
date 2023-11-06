@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<video muted="" loop="" playsinline="" autoplay="" data-src="https://cdn.dribbble.com/users/1162077/screenshots/17946650/media/8cae8211587647518f4dd483f75971fd.mp4" data-video-small="https://cdn.dribbble.com/users/1162077/screenshots/17946650/media/29bd46d6e7bdb5107cb3702d234a4d69.mp4" data-video-medium="https://cdn.dribbble.com/users/1162077/screenshots/17946650/media/247d99a74fb6ac5bbdbb2d4182569e84.mp4" data-video-large="https://cdn.dribbble.com/users/1162077/screenshots/17946650/media/8cae8211587647518f4dd483f75971fd.mp4" src="https://cdn.dribbble.com/users/1162077/screenshots/17946650/media/8cae8211587647518f4dd483f75971fd.mp4"></video>
-<h1 align="center">Hi 👋, I'm Rusith Tharindu Thushan</h1>
+<img src ="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <h3 align="center">A Software Engineering Undergraduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusiththarindu&label=Profile%20views&color=0e75b6&style=flat" alt="rusiththarindu" /> </p>
