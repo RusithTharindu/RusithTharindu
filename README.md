@@ -27,4 +27,4 @@ I'm a Software Engineering Undergraduate from Sri Lanka
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/rusith-tharindu-thushan-9ab16316b/). 
+[LinkedIn](https://www.linkedin.com/in/rusith-tharindu-thushan-9ab16316b/)
