@@ -11,14 +11,14 @@ I'm a Software Engineering Undergraduate from Sri Lanka
 **Frontend Development :** `React.js` `Next.js` `TypeScript` `Tailwind`  `Material-UI` `Framer-Motion`
 
 **Mobile Application Development :** `React Native` `Flutter`
+
+**User Interface Designing :** `Figma`
  
 **Version Control :** `Git`
 
 **Backend Development :** `Node.js` `MongoDB` `Firebase` 
 
 **Testing :**  `Postman`
-
-**User Interface Designing :** `Figma`
 
 **Tools I Use:** `Notion` `ClickUp` `Slack` `Canva` `Trello`
  
