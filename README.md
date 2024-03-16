@@ -1,7 +1,4 @@
 [![](https://visitcount.itsvg.in/api?id=RusithTharindu&icon=6&color=6)](https://visitcount.itsvg.in)
-
-
-
 ## I'm Rusith Tharindu Thushan 👋🏽  
 
 I'm a Software Engineering Undergraduate from Sri Lanka 
