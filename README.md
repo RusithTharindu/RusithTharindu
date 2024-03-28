@@ -1,10 +1,11 @@
+<center>
 [![](https://visitcount.itsvg.in/api?id=RusithTharindu&icon=6&color=6)](https://visitcount.itsvg.in)
 ## I'm Rusith Tharindu Thushan 👋🏽  
 
 I'm a Software Engineering Undergraduate from Sri Lanka 
-<center>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend+Developer;Ui+%2F+UX+Designer" alt="Typing SVG" /></a>
-</center>
+
 
 ## 📦 Toolbox
 
@@ -30,3 +31,5 @@ I'm a Software Engineering Undergraduate from Sri Lanka
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/rusith-tharindu-thushan-9ab16316b/)
+
+</center>
