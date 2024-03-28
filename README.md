@@ -1,4 +1,3 @@
-<center>
 [![](https://visitcount.itsvg.in/api?id=RusithTharindu&icon=6&color=6)](https://visitcount.itsvg.in)
 ## I'm Rusith Tharindu Thushan 👋🏽  
 
@@ -32,4 +31,3 @@ I'm a Software Engineering Undergraduate from Sri Lanka
 
 [LinkedIn](https://www.linkedin.com/in/rusith-tharindu-thushan-9ab16316b/)
 
-</center>
