@@ -5,7 +5,6 @@ I'm a Software Engineering Undergraduate from Sri Lanka
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend+Developer;Ui+%2F+UX+Designer" alt="Typing SVG" /></a>
 
-
 ## 📦 Toolbox
 
 **Frontend Development :** `React.js` `Next.js` `TypeScript` `Tailwind`  `Material-UI` `Framer-Motion`
