@@ -11,7 +11,7 @@ I'm a Software Engineering Undergraduate from Sri Lanka
 
 **Mobile Application Development :** `React Native` `Flutter`
 
-**User Interface Designing :** `Figma`
+**User Interface Designing :** `Figma` `Framer`
  
 **Version Control :** `Git`
 
