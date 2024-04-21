@@ -15,11 +15,11 @@ I'm a Software Engineering Undergraduate from Sri Lanka
  
 **Version Control :** `Git`
 
-**Backend Development :** `Node.js` `Java` `PHP` `C#` `SQL`
+<!--- **Backend Development :** `Node.js` `Java` `PHP` `C#` `SQL`-->
 
-**Databases :** `MongoDB` `Firestore` `MySQL`
+<!--- **Databases :** `MongoDB` `Firestore` `MySQL` -->
 
-**Testing :**  `Postman`
+<!--- **Testing :**  `Postman`-->
 
 **Tools I Use:** `Notion` `ClickUp` `Slack` `Canva` `Trello`
  
