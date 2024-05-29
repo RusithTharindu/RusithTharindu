@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=RusithTharindu&icon=6&color=6)](https://visitcount.itsvg.in)
+[![views](https://komarev.com/ghpvc/?username=WasathTheekshana&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/RusithTharindu)
 ## I'm Rusith Tharindu Thushan 👋🏽  
 
 I'm a Software Engineering Undergraduate from Sri Lanka 
