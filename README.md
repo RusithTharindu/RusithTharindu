@@ -9,17 +9,17 @@ I'm a Software Engineering Undergraduate from Sri Lanka
 
 **Frontend Development :** `React.js` `Next.js` `JavaScript` `TypeScript` `Tailwind`  `Framer-Motion`
 
+**Backend Development :** `Node.js` `SQL` `Express`
+
+**Databases :** `MongoDB` `MySQL`
+
 **Mobile Application Development :** `React Native` `Flutter`
 
 **User Interface Designing :** `Figma` `Framer`
  
 **Version Control :** `Git`
 
-<!--- **Backend Development :** `Node.js` `Java` `PHP` `C#` `SQL`-->
-
-<!--- **Databases :** `MongoDB` `Firestore` `MySQL` -->
-
-<!--- **Testing :**  `Postman`-->
+**Testing :**  `Postman`
 
 **Tools I Use:** `Notion` `ClickUp` `Slack` `Canva` `Trello`
  
