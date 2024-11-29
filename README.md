@@ -1,5 +1,5 @@
 [![views](https://komarev.com/ghpvc/?username=RusithTharindu&color=blueviolet&style=for-the-badge=313131&label=Profile+Views&abbreviated=true)](https://github.com/RusithTharindu)
-# Hello there 👋🏽, <br/> I'm Rusith Tharindu Thushan 
+# Hello There 👋🏽, <br/> I'm Rusith Tharindu Thushan 
 
 I'm a Software Engineering Undergraduate from Sri Lanka 
 
