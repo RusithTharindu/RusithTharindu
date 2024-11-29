@@ -3,7 +3,7 @@
 
 I'm a Software Engineering Undergraduate from Sri Lanka 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&random=false&width=435&lines=Frontend+Developer;UI+%2F+UX+Designer;Web+Dev+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&letterSpacing=2px&pause=1000&center=false&width=435&lines=Fullstack+Developer;Software+Engineering+Enthusiast" alt="Typing SVG" /></a>
 
 ## 📦 Tech Stack
 
