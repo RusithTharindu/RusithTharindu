@@ -9,6 +9,8 @@ I'm a Software Engineering Undergraduate from Sri Lanka
 
 **Frontend Development :** `React.js` `Next.js` `JavaScript` `TypeScript` `Tailwind`  `Framer-Motion`
 
+**Animation Libraries :** `Framer-Motion` `GSAP`
+
 **Backend Development :** `Node.js` `SQL` `Express`
 
 **Databases :** `MongoDB` `MySQL`
