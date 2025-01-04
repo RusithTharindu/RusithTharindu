@@ -7,15 +7,15 @@ I'm a Software Engineering Undergraduate from Sri Lanka
 
 ## 📦 Tech Stack
 
-**Frontend Development :** `React.js` `Next.js` `JavaScript` `TypeScript` `Tailwind`  `Framer-Motion`
+**Frontend Development :** `React.js` `Next.js` `JavaScript` `TypeScript` `Tailwind`
 
-**Animation Libraries :** `Framer-Motion` `GSAP`
+**Animation Libraries :** `Motion` `GSAP`
 
-**Backend Development :** `Node.js` `SQL` `Express`
+**Backend Development :** `Node.js` `Express` `Nest.js`
 
 **Databases :** `MongoDB` `MySQL`
 
-**Mobile Application Development :** `React Native` `Flutter`
+**Mobile Application Development :** `React Native`
 
 **User Interface Designing :** `Figma` `Framer`
  
