@@ -7,23 +7,26 @@ I'm a Software Engineer from Sri Lanka
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&letterSpacing=2px&pause=1000&center=false&width=435&lines=Fullstack+Developer;Software+Engineering+Enthusiast" alt="Typing SVG" /></a>
 --->
+
 ## 📦 Tech Stack
 
 **Frontend Development :** `React.js` `Next.js` `JavaScript` `TypeScript` `Tailwind`
 
 **Animation Libraries :** `Motion` `GSAP`
 
-**Backend Development :** `Node.js` `Express` `Nest.js`
+**Backend Development :** `Node.js` `Express` `Nest.js` `C#` `ASP.NET` `EF Core`
 
 **Databases :** `MongoDB` `MySQL`
+
+**Cloud Platforms :** `AWS` `Azure`
 
 **Mobile Application Development :** `React Native`
 
 **User Interface Designing :** `Figma` `Framer`
- 
+
 **Version Control :** `Git`
 
-**Testing :**  `Postman`
+**Testing :** `Postman` `Insomnia`
 
 **Tools I Use:** `Notion` `ClickUp` `Slack` `Canva` `Trello`
 
