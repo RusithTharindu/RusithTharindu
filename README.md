@@ -1,41 +1,5 @@
-[![views](https://komarev.com/ghpvc/?username=RusithTharindu&color=blueviolet&style=for-the-badge=313131&label=Profile+Views&abbreviated=true)](https://github.com/RusithTharindu)
-# Hello There 👋🏽, <br/> I'm Rusith Tharindu Thushan 
+<a href="https://rusith.dev"><img src="https://rusith.dev/brand/logo.webp" width="56" alt="Rusith's ink-brush logo" /></a>
 
-I'm a Software Engineer from Sri Lanka 
+<a href="https://rusith.dev"><img src="./assets/hero.svg" width="100%" alt="Ayubowan, I'm Rusith. I build full-stack products, and I'm learning to break them." /></a>
 
-<!---
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&letterSpacing=2px&pause=1000&center=false&width=435&lines=Fullstack+Developer;Software+Engineering+Enthusiast" alt="Typing SVG" /></a>
---->
-
-## 📦 Tech Stack
-
-**Frontend Development :** `React.js` `Next.js` `JavaScript` `TypeScript` `Tailwind`
-
-**Animation Libraries :** `Motion` `GSAP`
-
-**Backend Development :** `Node.js` `Express` `Nest.js` `C#` `ASP.NET` `EF Core`
-
-**Databases :** `MongoDB` `MySQL`
-
-**Cloud Platforms :** `AWS` `Azure`
-
-**Mobile Application Development :** `React Native`
-
-**User Interface Designing :** `Figma` `Framer`
-
-**Version Control :** `Git`
-
-**Testing :** `Postman` `Insomnia`
-
-**Tools I Use:** `Notion` `ClickUp` `Slack` `Canva` `Trello`
-
- <!---
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruziya66_) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rusiththarindu2) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ruziya66_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RuZiya66) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ruziya66_) 
-
-## 📫 Contact
-
-[LinkedIn](https://www.linkedin.com/in/rusith-tharindu-thushan-9ab16316b/)
-
- --->
+<img src="./assets/stack.svg" width="100%" alt="Stack: React.js, Next.js, JavaScript, TypeScript, Tailwind, Motion, GSAP, Node.js, Express, Nest.js, C#, ASP.NET, EF Core, MongoDB, MySQL, AWS, Azure, React Native, Expo, Figma, Framer, Git, Postman, Insomnia, Notion, ClickUp, Slack, Canva, Trello" />
